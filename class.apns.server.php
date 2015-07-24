@@ -2,7 +2,7 @@
 /*
  * apns server 使用php进行服务推送
  *
- * @created by anjuke inc 2015-07-23
+ * @created by www.rockywu.com 2015-07-23
  * @author rockywu wjl19890427@hotmail.com
  */
 class apns_server
